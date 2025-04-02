@@ -6,6 +6,12 @@
 | YOLOv11     | 0.548      | 0.61    | 0.574    | 0.573      |
 | YOLO v11 Augmented | 0.692      | 0.759       | 0.771       | 0.769         |
 
+# 200 Epochs and SGD
+
+| Model       | Precision (B) | Recall (B) | mAP50 (B) | mAP50-95 (B) |
+|------------|-------------|-----------|-----------|-------------|
+| YOLOv11     | -      | -    | -   | -      |
+| YOLO v11 Augmented | 0.736      | 0.786      | 0.815       | 0.815         |
 
 # Size Comparison of Each Class
 
