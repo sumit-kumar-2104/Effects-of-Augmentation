@@ -1,5 +1,6 @@
 # Effects-of-Augmentation
 
+# 100 epochs and SGD
 
 | Model       | Precision (B) | Recall (B) | mAP50 (B) | mAP50-95 (B) |
 |------------|-------------|-----------|-----------|-------------|
