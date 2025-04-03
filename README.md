@@ -18,8 +18,10 @@
 
 | Model       | Precision (B) | Recall (B) | mAP50 (B) | mAP50-95 (B) |
 |------------|-------------|-----------|-----------|-------------|
-| YOLOv11     | -     |-   | -  |-      |
+| YOLOv11     | 0.2      |  1   | 0.208  |  0.208    |
 | YOLO v11 Augmented | 0.587     | 0.723      | 0.698        | 0.691         |
+
+                     
                  
 # Size Comparison of Each Class
 
