@@ -10,9 +10,16 @@
 
 | Model       | Precision (B) | Recall (B) | mAP50 (B) | mAP50-95 (B) |
 |------------|-------------|-----------|-----------|-------------|
-| YOLOv11     | -      | -    | -   | -      |
+| YOLOv11     | 0.547     | 0.61    | 0.594   | 0.593      |
 | YOLO v11 Augmented | 0.736      | 0.786      | 0.815       | 0.815         |
 
+# 200 Epochs and Adam
+
+| Model       | Precision (B) | Recall (B) | mAP50 (B) | mAP50-95 (B) |
+|------------|-------------|-----------|-----------|-------------|
+| YOLOv11     | -     |-   | -  |-      |
+| YOLO v11 Augmented | 0.587     | 0.723      | 0.698        | 0.691         |
+                 
 # Size Comparison of Each Class
 
 | Data       | 0 | 1 | 2 | 3 |  4 |
